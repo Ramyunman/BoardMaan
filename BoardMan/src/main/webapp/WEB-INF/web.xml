@@ -39,7 +39,7 @@
 		
 	<servlet-mapping>
 		<servlet-name>appServlet</servlet-name>
-		<url-pattern>/*</url-pattern>
+		<url-pattern>/</url-pattern>
 	</servlet-mapping>
 	
 	<!-- UTF-8 한글 필터 처리 -->
